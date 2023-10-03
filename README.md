@@ -54,9 +54,14 @@ To assemble the skirt, first take the skirt and measure the lengths and distance
 
 
 **References and sources:**
+
 For inspiration on design and ideas:
 https://learn.adafruit.com/florabrella/overview
 https://learn.adafruit.com/chameleon-scarf
+
 For help with the code and troubleshooting:
-https://dnschecker.org/convert-rgb-to-pantone-pms.php https://dronebotworkshop.com/arduino-color-sense/
-https://www.youtube.com/watch?v=uczaIETo_Jg https://randomnerdtutorials.com/arduino-color-sensor-tcs230-tcs3200/https://github.com/nthnn/TCS3200
+https://dnschecker.org/convert-rgb-to-pantone-pms.php 
+https://dronebotworkshop.com/arduino-color-sense/
+https://www.youtube.com/watch?v=uczaIETo_Jg 
+https://randomnerdtutorials.com/arduino-color-sensor-tcs230-tcs3200/
+https://github.com/nthnn/TCS3200
